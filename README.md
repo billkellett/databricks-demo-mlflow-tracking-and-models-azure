@@ -1,6 +1,6 @@
 # databricks-demo-mlflow-tracking-and-models-azure
 
-This demo shows how to train a model, track it with MLflow, and deploy it with MLflow into Azure ML.
+This demo shows how to train a model, track it with MLflow, and deploy it with MLflow into Azure ML.  Naturally, it will only run on an Azure Databricks instance.
 
 To install and run this demo in your own Databricks environment:
 
